@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Contour",
+    "batch": "Fall 2026",
+    "status": "Active",
+    "oneLiner": "AI-native environmental permitting & compliance for America’s buildout",
+    "description": "Contour acquires environmental consulting firms and runs them on Cortex, our AI platform. Its agents produce the reports, studies and permit applications. Custo...",
+    "website": "https://contourholdings.ai/",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "tags": [
+      "Energy",
+      "AI"
+    ],
+    "teamSize": 4,
+    "isHiring": false,
+    "topCompany": false,
+    "stage": "Early",
+    "locations": "San Francisco, CA, USA",
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "launchedAt": "2026-11-15T23:34:02.000Z",
+    "formerNames": [
+      "Bricks"
+    ],
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ae0831175e2bfda4e79ecd1dfe31db6e94502492.png",
+    "ycUrl": "https://www.ycombinator.com/companies/contourholdings",
+    "yearFounded": 2026,
+    "city": "San Francisco",
+    "country": "US",
+    "linkedinUrl": "https://www.linkedin.com/company/contourholdings/",
+    "twitterUrl": "https://x.com/contourholdings",
+    "crunchbaseUrl": null,
+    "githubUrl": null,
+    "groupPartner": "D. L.",
+    "founders": [
+      {
+        "name": "L. S.",
+        "title": "Founder/CEO",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": null,
+        "bio": "Founder & CEO @ Contour..."
+      },
+      {
+        "name": "A. A.",
+        "title": "Founder/CTO",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": "https://x.com/...",
+        "bio": "Founder/CTO at Contour. Built enterprise..."
+      },
+      {
+        "name": "Z. L.",
+        "title": "Founder",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": "https://x.com/...",
+        "bio": "Founder at Contour. Former IB Analyst at..."
+      },
+      {
+        "name": "O. M.",
+        "title": "Founder",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": null,
+        "bio": "Founder at Contour...."
+      }
+    ],
+    "openJobs": []
+  },
+  {
+    "name": "Central Blue",
+    "batch": "Fall 2026",
+    "status": "Active",
+    "oneLiner": "The power grid for space: we build power-beaming satellites.",
+    "description": "Spacecraft today have to generate all their own power, which caps what can be built and operated in orbit. Central Blue is building the power grid for space: sa...",
+    "website": "https://www.centralblue.ai/",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "tags": [
+      "Space Exploration",
+      "Aerospace",
+      "Defense"
+    ],
+    "teamSize": 2,
+    "isHiring": false,
+    "topCompany": false,
+    "stage": "Early",
+    "locations": "San Francisco, CA, USA",
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "launchedAt": "2026-11-15T21:41:38.000Z",
+    "formerNames": [],
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f3677cc5165f14459d957f9c303ce436693b0f18.png",
+    "ycUrl": "https://www.ycombinator.com/companies/central-blue",
+    "yearFounded": 2026,
+    "city": "San Francisco",
+    "country": "US",
+    "linkedinUrl": "https://linkedin.com/company/centralblue",
+    "twitterUrl": "https://x.com/centralblue_inc",
+    "crunchbaseUrl": null,
+    "githubUrl": "https://github.com/Central-Blue",
+    "groupPartner": "M. K.",
+    "founders": [
+      {
+        "name": "B. W.",
+        "title": "Founder/CEO",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": null,
+        "bio": "In high school I blew up a chemistry lab..."
+      },
+      {
+        "name": "J. C.",
+        "title": "Founder/CTO",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": null,
+        "bio": "When I was 15, I built my first EMP out ..."
+      }
+    ],
+    "openJobs": []
+  },
+  {
+    "name": "Repovive",
+    "batch": "Fall 2026",
+    "status": "Active",
+    "oneLiner": "Scaling AI formal verification for chips and critical software",
+    "description": "We work with AI labs to improve models on formal verification. We have $100k in contracts across two formalization RL environments and a $200k LOI for our broad...",
+    "website": "https://research.repovive.com",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "tags": [
+      "B2B",
+      "Data Science",
+      "AI"
+    ],
+    "teamSize": 5,
+    "isHiring": false,
+    "topCompany": false,
+    "stage": "Early",
+    "locations": "San Francisco, CA, USA",
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "launchedAt": "2026-11-13T20:05:43.000Z",
+    "formerNames": [],
+    "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b512aa5e1dcd7b9d60fef7c0b54a78fccc8676f8.png",
+    "ycUrl": "https://www.ycombinator.com/companies/repovive",
+    "yearFounded": null,
+    "city": "San Francisco",
+    "country": "US",
+    "linkedinUrl": "https://www.linkedin.com/company/repoviveinc/",
+    "twitterUrl": null,
+    "crunchbaseUrl": null,
+    "githubUrl": null,
+    "groupPartner": "C. G.",
+    "founders": [
+      {
+        "name": "S. C. J.",
+        "title": "Founder/CEO",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": "https://x.com/...",
+        "bio": "CS PhD at UMD. National Informatics Olym..."
+      },
+      {
+        "name": "A. M.",
+        "title": "Founder/CPO",
+        "linkedinUrl": "https://www.linkedin.com/in/...",
+        "twitterUrl": null,
+        "bio": "Co-founder @ Repovive. Ex-Google and You..."
+      }
+    ],
+    "openJobs": []
+  }
+]
